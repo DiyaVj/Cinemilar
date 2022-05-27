@@ -67,4 +67,5 @@ root
 ## Usage
 
 ## License
-The project is acquired under the MIT License.
+
+The project is acquired under the [MIT License](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer).
