@@ -26,6 +26,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#future-goals">Future Goals</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -56,17 +57,50 @@ root
 
 ## About The Project
 
+Recommender system help e-commerce sites to increase their sales.These days, recommendation Systems are used everywhere, whether it's an e-commerce site, Spotify, or Netflix and many others. The goal of a recommendation engine is to assist users in finding relevant items and to provide them with a personalized experience. Netflix makes recommendations using a hybrid system (collaborative filtering algorithm + content-based filtering algorithm).
+Cinemilar is a web-based movie recommendation application. This application uses a content-based filtering algorithm. It recommends movies based on the similarity of their meta data.
+
+#### Why Cinemilar?
+
+Cinemilar assists users in finding and personalising movies that they enjoy. Its goal is to predict users' interests and recommend movies that are likely to be of interest to them.
+The best thing about using content-based recommendation is that no data from other users is required to begin making recommendations.
+
 ### Built With
 * Frontend - [Streamlit](https://streamlit.io/)
 * Backend  - [Python](https://www.python.org/)
 * Dataset  - [TMDB 5000 Movie dataset (Kaggle)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download)
+* Deployment plateform - [Heroku](https://www.heroku.com/)
 ## Getting Started
+
+This application is very simple to use. To use cinemilar, follow the steps below.
+
+* Go to [Cinemilar](https://cinemilarity.herokuapp.com/)
+* You are able to see the application interface. Search/Select the movie of which you want to find similar movies
+* That's it. Cinemilar provides you top 5 similar movie recommendations.  
+
+#### Testing code
+
+Here are some details to consider before running code.
 
 ### Prerequisites
 
+* [Pycharm](https://www.jetbrains.com/pycharm/)
+* [Jyupiter Notebook](https://jupyter.org/)
+
 ### Installation
 
-## Usage
+* Clone the Repo 
+``` git clone https://github.com/DiyaVj/Cinemilar```
+
+* Install the requirements 
+``` pip install requirements.txt ```
+
+
+## Future Goals
+
+* I intend to improve UI/UX of the app.
+* Would like to update the app and use a hybrid technique to make it more user-friendly.
+* Also want to add more features to the application, such as movie details and information about the movie theatre and schedule where the specific movie is available.
 
 ## License
 
