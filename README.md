@@ -87,7 +87,7 @@ Here are some details to consider before running code.
 #### Prerequisites
 
 * [Pycharm](https://www.jetbrains.com/pycharm/)
-* [Jyupiter Notebook](https://jupyter.org/)
+* [Jupyter Notebook](https://jupyter.org/)
 
 #### Installation
 
