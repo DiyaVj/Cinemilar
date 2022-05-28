@@ -57,7 +57,9 @@ root
 ## About The Project
 
 ### Built With
-
+* Frontend - [Streamlit](https://streamlit.io/)
+* Backend  - [Python](https://www.python.org/)
+* Dataset  - [TMDB 5000 Movie dataset (Kaggle)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download)
 ## Getting Started
 
 ### Prerequisites
