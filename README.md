@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/87236107/170822111-b45beb0f-46b9-4eb3-b2ce-f70a23ba5717.png" width=30% height=30%>
     <br />
-  <a href="https://cinemilarity.herokuapp.com/"><strong>Explore the app here »</strong></a>
+  <a href="https://diyavj-cinemilar-app-kh30et.streamlit.app/"><strong>Explore the app here »</strong></a>
 </p>
 <details>
   <summary>Table of Contents</summary>
